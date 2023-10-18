@@ -18,7 +18,7 @@ ___
 
 <!-- Project Description -->
 ## Overview
-<p align="center">This project, named "User Management System," is a robust Spring Boot application designed for managing user data efficiently. It provides a set of API endpoints that allow you to perform various operations on user records, such as adding, retrieving, updating, and deleting user information. 
+<p align="center">This project, named To-Do" is a robust Spring Boot application designed for managing user data efficiently. It provides a set of API endpoints that allow you to perform various operations on user records, such as adding, retrieving, updating, and deleting todo's information. 
 </p>
 
 <!-- Table of Contents -->
@@ -40,21 +40,18 @@ ___
 - MAVEN Central
 
 
-
-
-
 <!-- Key Features -->
 ## Key Features
-- Add Users
-- Get All Users.
-- Get User Details By Id.
-- Delete User By Id.
-- Update User Id
+- Add todo
+- Get All todo.
+- Get todo By Id.
+- Delete todo By Id.
+- Update todo Id
 
 <!-- Usage -->
 ## Usage
 - Access the application at `http://localhost:8080`.
-- Use the provided API endpoints to manage your User Management.
+- Use the provided API endpoints to manage your to do.
 
 ### Controller:
 - It consists of a class named APIController which basically controls the flow of data.
@@ -79,8 +76,8 @@ ___
 
 <!-- Contact -->
 ## Contact
-For questions or feedback, please contact : Avinash Singh   -
-- Maild Id : jaikisingh302@gmail.com
+For questions or feedback, please contact : Avadhesh Shukla   -
+- Maild Id : avadheshshukla1636@gmail.com
 
 <h1 align="center">Thank You...<h1>
 <h3 align = "center"> ***********************************************************<h3>
