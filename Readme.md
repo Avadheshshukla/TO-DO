@@ -1,4 +1,4 @@
-# <h1 align = "center"> todo App Spring_Boot & Using  ArrayList</h1>
+# <h1 align = "center"> To-Do App</h1>
 ___ 
 <p align="center">
 <a href="Java url">
@@ -18,7 +18,7 @@ ___
 
 <!-- Project Description -->
 ## Overview
-<p align="center">This project, named To-Do" is a robust Spring Boot application designed for managing user data efficiently. It provides a set of API endpoints that allow you to perform various operations on user records, such as adding, retrieving, updating, and deleting todo's information. 
+<p align="center">This project, named To-Do" is a robust Spring Boot application designed for managing user data efficiently with arraylist. It provides a set of API endpoints that allow you to perform various operations on user records, such as adding, retrieving, updating, and deleting todo's information. 
 </p>
 
 <!-- Table of Contents -->
